@@ -149,7 +149,7 @@ docs/sample_run_metasploitable2.txt   the real lab output
 
 ## How this was built
 
-I built this as a learning project with help from an AI assistant (Claude). I am studying each part so I
+I built this as a learning project. I am studying each part so I
 can explain how it works, and I tested it on my own Kali and Metasploitable2 lab.
 
 ## License and disclaimer
